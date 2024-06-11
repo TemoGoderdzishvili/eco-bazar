@@ -10,7 +10,6 @@ export const ArrowIcon: React.FC<Props> = ({text}) => {
         <div className={styles.wrapper}>
             <p className={styles.txt}>{text}</p>
             <img src={icon.src}/>
-            {/* <div className={styles.img}></div> */}
         </div>
     )
 }
