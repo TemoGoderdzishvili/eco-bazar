@@ -1,0 +1,65 @@
+.container{
+    width: 872px;
+    height: 600px;
+    background-image: url("./images/fresh&healthy.jpg");
+    background-size: cover;
+    border-radius: 10px;
+
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.line{
+    height: 65px;
+    width: 2px;
+    background-color: rgba(132, 209, 135, 1);
+}
+.salesAndLineContainer{
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+.percent{
+    display: inline-block;
+    width: 108px;
+    height: 38px;
+    background-color: rgba(255, 138, 0, 1);
+    border-radius: 5px;
+}
+.child{
+    display: flex;
+    flex-direction: column;
+}
+.salesP{
+    color: white;
+    font-size: 20px;
+
+}
+.salesPBottom{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+}
+.salesPUpper{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+}
+.saleTxtContainer{
+    margin-left: 12px;
+}
+.subContainer{
+    margin-left: 50px;
+    
+}
+.h1{
+    color: white;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 57.6px;
+    margin-bottom: 25px;
+}
+.lineAndTxtContainer{
+    display: flex;
+    margin-bottom: 25px;
+}

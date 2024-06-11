@@ -1,0 +1,13 @@
+.container{
+    border-radius: 53px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    gap: 10px;
+    border: none;
+}
+.txt{
+    font-weight: 600;
+    font-size: 16px;
+}

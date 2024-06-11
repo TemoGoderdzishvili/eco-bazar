@@ -1,0 +1,19 @@
+.contentWrapper{
+  height: 100vh; /*temp*/
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.content{
+  width: 1319px;
+  height: 5000px;    /*  temp   */
+  /* border: 1px solid; */
+}
+.bannerWrapper{
+  display: flex;
+  justify-content: space-between;
+}
+.sideContainer{
+  display: flex;
+  flex-direction: column;
+}
